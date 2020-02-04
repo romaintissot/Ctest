@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580730795 source:d:\developpement perso\c-c++\monprogramme\main.cpp
+	<iostream>
+
+1580828007 source:d:\developpement perso\c-c++\monprogramme\math.cpp
+	"math.h"
+
+1580828315 d:\developpement perso\c-c++\monprogramme\math.h
+
